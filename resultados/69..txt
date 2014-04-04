@@ -1,0 +1,11 @@
+columnas: 2.0
+promedio: 765.0
+dnormales: 0.0
+sdt: 18.65095418834962
+	20.199391394212352
+num_cluster: 2
+distancia_entre_cluster: 
+	12.846519
+distancias_intra_cluster: 
+	20.099695
+	20.099695
