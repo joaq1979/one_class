@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Archivos de programa/MATLAB/R2010a/toolbox/javabuilder/jar/javabuilder.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrador/Mis documentos/MATLAB/tesina/Preprocesar_OC/distrib/Preprocesar_OC.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrador/Mis documentos/MATLAB/tesina/Calcular_caracteristicas_oc/distrib/Calcular_caracteristicas_oc.jar"/>
+	<classpathentry kind="lib" path="C:/Archivos de programa/Weka-3-6/weka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
